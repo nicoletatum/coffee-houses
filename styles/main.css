@@ -1,0 +1,35 @@
+.pageHeader{
+    text-align: center;
+    padding:1em;
+}
+.list{
+    display: flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+}
+.rowOne{
+    display: flex;
+    justify-content: space-between;
+}
+.rowTwo{
+    display: flex;
+    justify-content: space-between;
+}
+.rowThree{
+    display: flex;
+    justify-content: space-between;
+}
+.rowFour{
+    display: flex;
+    justify-content: space-between;
+}
+.rowFive{
+    display: flex;
+    justify-content: space-around;
+}
+.shop{ 
+    border:black dotted 1px;
+    padding-right: 8em;
+}
+
+
